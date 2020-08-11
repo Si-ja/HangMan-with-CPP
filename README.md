@@ -16,6 +16,9 @@ Current issues with the code solution:
 ## Visuals of the game
 
 ![](https://github.com/Si-ja/HangMan-with-CPP/blob/master/Visuals/StartScreen.PNG?raw=true "Game Start")
+
 ![](https://github.com/Si-ja/HangMan-with-CPP/blob/master/Visuals/MidGame.PNG?raw=true "Mid Game")
+
 ![](https://github.com/Si-ja/HangMan-with-CPP/blob/master/Visuals/GameOver.PNG?raw=true "Game Over")
+
 ![](https://github.com/Si-ja/HangMan-with-CPP/blob/master/Visuals/GameWon.PNG?raw=true "Game Won")
