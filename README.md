@@ -12,3 +12,10 @@ All of said goals where achieved. In order to play the game - navigate to the `R
 
 Current issues with the code solution:
 * A bit messy, due to extensive presence of Getters and Setters in the `Field` class. Refactory should keep the code more organized.
+
+## Visuals of the game
+
+![](https://github.com/Si-ja/HangMan-with-CPP/blob/master/Visuals/StartScreen.PNG?raw=true "Game Start")
+![](https://github.com/Si-ja/HangMan-with-CPP/blob/master/Visuals/MidGame.PNG?raw=true "Mid Game")
+![](https://github.com/Si-ja/HangMan-with-CPP/blob/master/Visuals/GameOver.PNG?raw=true "Game Over")
+![](https://github.com/Si-ja/HangMan-with-CPP/blob/master/Visuals/GameWon.PNG?raw=true "Game Won")
